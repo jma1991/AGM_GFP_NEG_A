@@ -1,7 +1,7 @@
-name: "AGM_GFP_NEG_A"
+name: AGM_GFP_NEG_A
 output_dir: ../docs
 navbar:
-  title: "AGM_GFP_NEG_A"
+  title: AGM_GFP_NEG_A
   left:
   - text: Home
     href: index.html
